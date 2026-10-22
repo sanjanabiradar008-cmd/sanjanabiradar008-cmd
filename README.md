@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I’m Sanjana!
 
-<!--
-**sanjanabiradar008-cmd/sanjanabiradar008-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **iOS Developer** focused on building clean, modular, and pixel-perfect mobile experiences using modern Apple frameworks.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+* **Languages:** Swift
+* **UI Frameworks:** SwiftUI, UIKit
+* **Architechure:** MVVM, Clean Architecture
+* **Tools:** Xcode, Got, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+*(Projects coming soon! Currently building foundational iOS applications.)*
+
+## 📬 Connect With Me
+* **LinkedIn:** [Add your link here]
+* **Email:** [Add your email here]
+
